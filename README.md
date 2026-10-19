@@ -37,7 +37,7 @@ Dataset obtained from [Kaggle](https://www.kaggle.com)
 *Feedback split, purchase frequency by category and sub-category, and discount vs customer count.*
 
 ### Operational & Shipping Insights
-![Operational and Shipping Insights](Ecom%20Op.Shipping.png)
+![Operational and Shipping Insights](Ecom%20Op.&Shipping.png)
 *Shipping cost by state and product, and the link between high shipping cost, low-value orders and total sales.*
 
 ### Appendix
