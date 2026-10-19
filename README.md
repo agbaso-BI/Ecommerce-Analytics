@@ -25,23 +25,23 @@ Dataset obtained from [Kaggle](https://www.kaggle.com)
 ## 📸 Screenshots
 
 ### Sales & Revenue Performance
-![Sales and Revenue Performance](Ecom_Overview.png)
+![Sales and Revenue Performance](EcomOverview.png)
 *Revenue trend by month, revenue by category and sub-category, product performance and discount vs sales.*
 
 ### Customer Behavior & Segmentation
-![Customer Behavior and Segmentation](Ecom_Cust_Beh.png)
+![Customer Behavior and Segmentation](EcomCust.Beh.png)
 *Quantity and purchase frequency by customer, revenue by payment method and by state.*
 
 ### Customer Feedback & Retention
-![Customer Feedback and Retention](Ecom_Feedback.png)
+![Customer Feedback and Retention](EcomFeedback.png)
 *Feedback split, purchase frequency by category and sub-category, and discount vs customer count.*
 
 ### Operational & Shipping Insights
-![Operational and Shipping Insights](Ecom_Op__Shipping.png)
+![Operational and Shipping Insights](EcomOp.Shipping.png)
 *Shipping cost by state and product, and the link between high shipping cost, low-value orders and total sales.*
 
 ### Appendix
-![Appendix](Ecom_Appendix.png)
+![Appendix](EcomAppendix.png)
 *Average discount percentage by product.*
 
 ---
